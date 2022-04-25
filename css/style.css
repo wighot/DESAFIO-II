@@ -7,10 +7,6 @@ body{
     background-attachment: fixed;
 }
 
-.carouselslide{
-    border-radius: 6px 6px;
-}
-
-.carousel-itemactive{
+img{
     border-radius: 6px 6px;
 }
