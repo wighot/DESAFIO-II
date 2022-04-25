@@ -7,6 +7,6 @@ body{
     background-attachment: fixed;
 }
 
-img{
-   border-radius: 5px 5px;
+.d-blockw-100{
+    border-radius: 5px 5px;
 }
