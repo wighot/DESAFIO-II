@@ -7,6 +7,6 @@ body{
     background-attachment: fixed;
 }
 
-.d-blockw-100{
+.carousel-item{
     border-radius: 5px 5px;
 }
