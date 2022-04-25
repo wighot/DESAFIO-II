@@ -2,7 +2,7 @@ body{
     text-align: center;
     margin: 0 auto;
     width: 80%;
-    background: url(../img/fondo.png);
+    background: url(../img/fondo.svg);
     background-size: cover;
     background-attachment: fixed;
 }
